@@ -62,7 +62,7 @@ Please note, this pipeline exclusively focuses on HP-filtering, cleaning of eye-
 
 ## Getting Started
 
-To run the preproceessing pipeline, add this repository to your MATLAB path and call pipeline_wrapper.m.  
+To run the preproceessing pipeline, add the repository and its subfolders to your MATLAB path and call pipeline_wrapper.m.  
 
 ------
 
