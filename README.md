@@ -152,6 +152,12 @@ To run this wrapper, ensure **EEGLAB** and following custom functions are on you
 1. **Removing informations about ICA :** To reduce the size of the resulting set files, ICA-related infos like `EEG.icaweights`, `EEG.icaact`, etc., are removed. If you want to inspect ICA components manually, comment out the "Delete ICA results" section in the code.
 2. **Further Processing:** As already noted, re-referencing (e.g., to average reference), epoching and artifact rejection have to be performed **after** this pipeline.
 
+## Contact 
+
+If you have any questions or encounter a bug feel free to contact me:
+
+**Email:** philipp.bierwirth@uni-marburg.de
+
 ## References
 
 > Delorme, A., & Makeig, S. (2004). EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component  analysis. *Journal of Neuroscience Methods*, *134*(1), 9–21. https://doi.org/10.1016/j.jneumeth.2003.10.009
